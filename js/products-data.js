@@ -15,7 +15,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-carbon-activado.jpg"
+    foto: "./assets/jabon-carbon-activado.jpeg"
   },
 
   {
