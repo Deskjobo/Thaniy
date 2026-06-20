@@ -24,7 +24,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-carbon-activado.webp"
+    foto: "./assets/jabon-carbon-activado.jpeg"
   },
 
   {
@@ -33,7 +33,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-nacar-arcilla-platano.jpg"
+    foto: "./assets/jabon-nacar-arcilla-platano.jpeg"
   },
 
   {
@@ -42,7 +42,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-curcuma-aceite-coco.jpg"
+    foto: "./assets/jabon-curcuma-aceite-coco.jpeg"
   },
 
   {
@@ -51,7 +51,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-coco-aceite-castanas.jpg"
+    foto: "./assets/jabon-coco-aceite-castanas.jpeg"
   },
 
   {
@@ -60,7 +60,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-kion-anis-manzanilla.jpg"
+    foto: "./assets/jabon-kion-anis-manzanilla.jpeg"
   },
 
   {
