@@ -24,7 +24,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-carbon-activado.jpeg"
+    foto: "./assets/jabon-hierba-luisa.jpeg"
   },
 
   {
@@ -69,7 +69,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-manteca-cacao-cacao.jpg"
+    foto: "./assets/jabon-manteca-cacao-cacao.jpeg"
   },
 
   {
@@ -78,7 +78,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-arroz-castanas.jpg"
+    foto: "./assets/jabon-arroz-castanas.jpeg"
   },
 
   {
@@ -87,7 +87,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-quinua-jamaica-cacao.jpg"
+    foto: "./assets/jabon-quinua-jamaica-cacao.jpeg"
   },
 
   {
@@ -96,7 +96,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-rosas.jpg"
+    foto: "./assets/jabon-rosas.jpeg"
   },
 
   {
@@ -105,7 +105,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-lavanda.jpg"
+    foto: "./assets/jabon-lavanda.jpeg"
   },
 
   {
@@ -114,7 +114,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-avena-miel-castanas.jpg"
+    foto: "./assets/jabon-avena-miel-castanas.jpeg"
   },
 
   {
@@ -123,7 +123,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-naranja.jpg"
+    foto: "./assets/jabon-naranja.jpeg"
   },
 
   {
@@ -132,7 +132,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-canela.jpg"
+    foto: "./assets/jabon-canela.jpeg"
   },
 
   {
@@ -141,7 +141,7 @@ const products = [
     categoria: "Sólido",
     beneficios: ["x", "y", "z"],
     precio: 30.00,
-    foto: "./assets/solido-romero-ortiga-carbon.jpg"
+    foto: "./assets/solido-romero-ortiga-carbon.jpeg"
   },
 
   {
@@ -150,7 +150,7 @@ const products = [
     categoria: "Sólido",
     beneficios: ["x", "y", "z"],
     precio: 30.00,
-    foto: "./assets/solido-curcuma-quinoa-romero.jpg"
+    foto: "./assets/solido-curcuma-quinoa-romero.jpeg"
   },
 
   {
@@ -159,7 +159,7 @@ const products = [
     categoria: "Sólido",
     beneficios: ["x", "y", "z"],
     precio: 30.00,
-    foto: "./assets/solido-manteca-cacao-romero.jpg"
+    foto: "./assets/solido-manteca-cacao-romero.jpeg"
   },
 
   {
@@ -168,7 +168,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-cotton-baby.jpg"
+    foto: "./assets/aromatizador-cotton-baby.jpeg"
   },
 
   {
@@ -177,7 +177,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-elegance.jpg"
+    foto: "./assets/aromatizador-elegance.jpeg"
   },
 
   {
@@ -186,7 +186,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-manzana.jpg"
+    foto: "./assets/aromatizador-manzana.jpeg"
   },
 
   {
@@ -195,7 +195,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-lavanda.jpg"
+    foto: "./assets/aromatizador-lavanda.jpeg"
   },
 
   {
@@ -204,7 +204,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-sweet-floral.jpg"
+    foto: "./assets/aromatizador-sweet-floral.jpeg"
   },
 
   {
@@ -213,7 +213,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-coco-lima.jpg"
+    foto: "./assets/aromatizador-coco-lima.jpeg"
   },
 
   {
@@ -222,7 +222,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 55.00,
-    foto: "./assets/box-4-jabones.jpg"
+    foto: "./assets/box-4-jabones.jpeg"
   },
 
   {
@@ -231,7 +231,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 50.00,
-    foto: "./assets/box-3-jabones.jpg"
+    foto: "./assets/box-3-jabones.jpeg"
   },
 
   {
@@ -240,7 +240,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 40.00,
-    foto: "./assets/box-9-mini.jpg"
+    foto: "./assets/box-9-mini.jpeg"
   },
 
   {
@@ -249,7 +249,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 70.00,
-    foto: "./assets/box-9-medios.jpg"
+    foto: "./assets/box-9-medios.jpeg"
   },
 
   {
@@ -262,7 +262,7 @@ const products = [
       "cicatrizante"
     ],
     precio: 20.00,
-    foto: "./assets/brillo-labios.jpg"
+    foto: "./assets/brillo-labios.jpeg"
   },
 
   {
@@ -273,7 +273,7 @@ const products = [
       "Estimulante del crecimiento de pestañas y cejas"
     ],
     precio: 15.00,
-    foto: "./assets/aceite-ricino.jpg"
+    foto: "./assets/aceite-ricino.jpeg"
   },
 
   {
@@ -284,7 +284,7 @@ const products = [
       "Teñido de canas"
     ],
     precio: 20.00,
-    foto: "./assets/shampoo-tenido.jpg"
+    foto: "./assets/shampoo-tenido.jpeg"
   },
 
   {
@@ -293,7 +293,7 @@ const products = [
     categoria: "Cosmética natural",
     beneficios: ["x", "y", "z"],
     precio: null,
-    foto: "./assets/balsamo.jpg"
+    foto: "./assets/balsamo.jpeg"
   },
 
   {
@@ -302,7 +302,7 @@ const products = [
     categoria: "Cosmética natural",
     beneficios: ["x", "y", "z"],
     precio: null,
-    foto: "./assets/serum.jpg"
+    foto: "./assets/serum.jpeg"
   },
 
   {
@@ -311,7 +311,7 @@ const products = [
     categoria: "Cosmética natural",
     beneficios: ["x", "y", "z"],
     precio: null,
-    foto: "./assets/neutralizador.jpg"
+    foto: "./assets/neutralizador.jpeg"
   },
 
   {
@@ -320,7 +320,7 @@ const products = [
     categoria: "Higiene Personal",
     beneficios: ["x", "y", "z"],
     precio: null,
-    foto: "./assets/body-mist.jpg"
+    foto: "./assets/body-mist.jpeg"
   },
 
   {
@@ -329,7 +329,7 @@ const products = [
     categoria: "Higiene Personal",
     beneficios: ["x", "y", "z"],
     precio: null,
-    foto: "./assets/agua-micelar.jpg"
+    foto: "./assets/agua-micelar.jpeg"
   },
 
   {
@@ -338,6 +338,6 @@ const products = [
     categoria: "Higiene Personal",
     beneficios: ["x", "y", "z"],
     precio: 25.00,
-    foto: "./assets/desodorante-alumbre.jpg"
+    foto: "./assets/desodorante-alumbre.jpeg"
   }
 ];
