@@ -51,7 +51,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-coco-aceite-castanas.jpeg"
+    foto: "./assets/jabon-coco-aceite-castañas.jpeg"
   },
 
   {
@@ -60,7 +60,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-kion-anis-manzanilla.jpeg"
+    foto: "./assets/jabon-kion-anís-manzanilla.jpeg"
   },
 
   {
@@ -78,7 +78,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-arroz-castanas.jpeg"
+    foto: "./assets/jabon-arroz-castañas.jpeg"
   },
 
   {
@@ -114,7 +114,7 @@ const products = [
     categoria: "Jabón",
     beneficios: ["x", "y", "z"],
     precio: 10.00,
-    foto: "./assets/jabon-avena-miel-castanas.jpeg"
+    foto: "./assets/jabon-avena-miel-castañas.jpeg"
   },
 
   {
@@ -150,7 +150,7 @@ const products = [
     categoria: "Sólido",
     beneficios: ["x", "y", "z"],
     precio: 30.00,
-    foto: "./assets/solido-curcuma-quinoa-romero.jpeg"
+    foto: "./assets/solido-cúrcuma-quinoa-romero.jpeg"
   },
 
   {
@@ -168,7 +168,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-cotton-baby.jpeg"
+    foto: "./assets/aromatizador-cotton-baby-care.jpeg"
   },
 
   {
@@ -177,7 +177,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-elegance.jpeg"
+    foto: "./assets/aromatizador-elegance-sofisticado.jpeg"
   },
 
   {
@@ -186,7 +186,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-manzana.jpeg"
+    foto: "./assets/aromatizador-manzana-canela-vainilla.jpeg"
   },
 
   {
@@ -195,7 +195,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-lavanda.jpeg"
+    foto: "./assets/aromatizador-lavanda-manzanilla.jpeg"
   },
 
   {
@@ -213,7 +213,7 @@ const products = [
     categoria: "Aromatizador",
     beneficios: [],
     precio: 50.00,
-    foto: "./assets/aromatizador-coco-lima.jpeg"
+    foto: "./assets/aromatizador-coco-lima-verbena.jpeg"
   },
 
   {
@@ -231,7 +231,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 50.00,
-    foto: "./assets/box-3-jabones.jpeg"
+    foto: "./assets/box-caja-3-jabones.jpeg"
   },
 
   {
@@ -240,7 +240,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 40.00,
-    foto: "./assets/box-9-mini.jpeg"
+    foto: "./assets/box-caja-9-minis.jpeg"
   },
 
   {
@@ -249,7 +249,7 @@ const products = [
     categoria: "Box",
     beneficios: ["Surtido"],
     precio: 70.00,
-    foto: "./assets/box-9-medios.jpeg"
+    foto: "./assets/box-caja-9-medios.jpeg"
   },
 
   {
@@ -262,7 +262,7 @@ const products = [
       "cicatrizante"
     ],
     precio: 20.00,
-    foto: "./assets/brillo-labios.jpeg"
+    foto: "./assets/cosmetica-brillo-para-labios.jpeg"
   },
 
   {
@@ -273,7 +273,7 @@ const products = [
       "Estimulante del crecimiento de pestañas y cejas"
     ],
     precio: 15.00,
-    foto: "./assets/aceite-ricino.jpeg"
+    foto: "./assets/cosmetica-aceite-ricino.jpeg"
   },
 
   {
@@ -284,7 +284,7 @@ const products = [
       "Teñido de canas"
     ],
     precio: 20.00,
-    foto: "./assets/shampoo-tenido.jpeg"
+    foto: "./assets/cosmetica-shampoo-teñido.jpeg"
   },
 
   {
@@ -338,6 +338,6 @@ const products = [
     categoria: "Higiene Personal",
     beneficios: ["x", "y", "z"],
     precio: 25.00,
-    foto: "./assets/desodorante-alumbre.jpeg"
+    foto: "./assets/higiene-desodorante-alumbre.jpeg"
   }
 ];
